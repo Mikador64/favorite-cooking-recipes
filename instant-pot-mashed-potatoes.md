@@ -1,6 +1,6 @@
 # Instant Pot: Mashed Potatoes
 
-[ [GO BACK](../) ]
+[ [GO BACK](./) ]
 
 ## Ingredients
 
